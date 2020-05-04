@@ -15,7 +15,7 @@
 	}
 
 		body:before {
-			background: rgba(46, 49, 65, 0.8);
+			background: rgba(195, 204, 230, 0.8);
 			content: '';
 			display: block;
 			height: 100%;
